@@ -1,5 +1,5 @@
 
-# <h1 align=center> **Proyecto Final: Alertas sísmicas** </h1>
+# <h1 align=center> **DataFusion - Empresa de seguros** </h1>
                                             
 
 <p align="center">
